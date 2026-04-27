@@ -1,2 +1,1 @@
-# cfyxip
-cf-cloudflare 优选ip
+CFYXIP-CF优选IP
